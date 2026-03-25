@@ -1,5 +1,7 @@
-**Explainable EEG-Based ADHD Screening using Deep Learning and LLMs
-**
+Explainable EEG-Based ADHD Screening using Deep Learning and LLMs
+
+
+
 📌 Overview
 
 This project presents an Explainable AI framework for ADHD screening using multi-channel EEG signals.
