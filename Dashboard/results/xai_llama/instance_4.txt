@@ -1,0 +1,18 @@
+Here is the output:
+
+```
+{
+  "clinician": {
+    "The EEG-based assessment suggests that the top contributing factors to this prediction are subtle differences in the coefficients of the Discrete Cosine Transform (DCT) in Channel 0 at frequencies around 5 and 4 Hz. This may indicate a unique brain activity pattern.",
+    "These features, ch0_dct_coef5 and ch0_dct_coef4, collectively account for approximately 68% confidence in this prediction."
+  },
+  "parent": [
+    "The analysis found some unusual patterns in your child's brain waves that might be related to ADHD.",
+    "Two specific things stood out: the way their brain processed certain frequencies around 5 and 4 Hz in one part of their brain (Channel 0).",
+    "This could mean there are differences in how their brain works compared to others, which is why we're seeing this result."
+  ],
+  "disclaimer": {
+    "This assessment is for informational purposes only and should not be used as a substitute for a professional medical diagnosis or treatment. Consult with a qualified healthcare provider for an accurate diagnosis and appropriate care."
+  }
+}
+```

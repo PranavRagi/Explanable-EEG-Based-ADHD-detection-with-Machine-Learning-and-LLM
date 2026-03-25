@@ -1,0 +1,172 @@
+[
+  {
+    "file": "eeg_record10_EEG1.csv",
+    "n_samples": 381340,
+    "n_epochs": 1489
+  },
+  {
+    "file": "eeg_record11_EEG1.csv",
+    "n_samples": 391624,
+    "n_epochs": 1529
+  },
+  {
+    "file": "eeg_record12_EEG1.csv",
+    "n_samples": 356728,
+    "n_epochs": 1393
+  },
+  {
+    "file": "eeg_record13_EEG1.csv",
+    "n_samples": 373304,
+    "n_epochs": 1458
+  },
+  {
+    "file": "eeg_record14_EEG1.csv",
+    "n_samples": 345164,
+    "n_epochs": 1348
+  },
+  {
+    "file": "eeg_record15_EEG1.csv",
+    "n_samples": 359164,
+    "n_epochs": 1402
+  },
+  {
+    "file": "eeg_record16_EEG1.csv",
+    "n_samples": 234372,
+    "n_epochs": 915
+  },
+  {
+    "file": "eeg_record17_EEG1.csv",
+    "n_samples": 443972,
+    "n_epochs": 1734
+  },
+  {
+    "file": "eeg_record18_EEG1.csv",
+    "n_samples": 361840,
+    "n_epochs": 1413
+  },
+  {
+    "file": "eeg_record19_EEG1.csv",
+    "n_samples": 333236,
+    "n_epochs": 1301
+  },
+  {
+    "file": "eeg_record1_EEG1.csv",
+    "n_samples": 308868,
+    "n_epochs": 1206
+  },
+  {
+    "file": "eeg_record20_EEG1.csv",
+    "n_samples": 396812,
+    "n_epochs": 1550
+  },
+  {
+    "file": "eeg_record21_EEG1.csv",
+    "n_samples": 336280,
+    "n_epochs": 1313
+  },
+  {
+    "file": "eeg_record22_EEG1.csv",
+    "n_samples": 324764,
+    "n_epochs": 1268
+  },
+  {
+    "file": "eeg_record23_EEG1.csv",
+    "n_samples": 388088,
+    "n_epochs": 1515
+  },
+  {
+    "file": "eeg_record24_EEG1.csv",
+    "n_samples": 360928,
+    "n_epochs": 1409
+  },
+  {
+    "file": "eeg_record25_EEG1.csv",
+    "n_samples": 415164,
+    "n_epochs": 1621
+  },
+  {
+    "file": "eeg_record26_EEG1.csv",
+    "n_samples": 363232,
+    "n_epochs": 1418
+  },
+  {
+    "file": "eeg_record27_EEG1.csv",
+    "n_samples": 347548,
+    "n_epochs": 1357
+  },
+  {
+    "file": "eeg_record28_EEG1.csv",
+    "n_samples": 214540,
+    "n_epochs": 838
+  },
+  {
+    "file": "eeg_record29_EEG1.csv",
+    "n_samples": 424608,
+    "n_epochs": 1658
+  },
+  {
+    "file": "eeg_record2_EEG1.csv",
+    "n_samples": 366020,
+    "n_epochs": 1429
+  },
+  {
+    "file": "eeg_record30_EEG1.csv",
+    "n_samples": 349008,
+    "n_epochs": 1363
+  },
+  {
+    "file": "eeg_record31_EEG1.csv",
+    "n_samples": 428848,
+    "n_epochs": 1675
+  },
+  {
+    "file": "eeg_record32_EEG1.csv",
+    "n_samples": 483732,
+    "n_epochs": 1889
+  },
+  {
+    "file": "eeg_record33_EEG1.csv",
+    "n_samples": 483376,
+    "n_epochs": 1888
+  },
+  {
+    "file": "eeg_record34_EEG1.csv",
+    "n_samples": 408976,
+    "n_epochs": 1597
+  },
+  {
+    "file": "eeg_record3_EEG1.csv",
+    "n_samples": 357224,
+    "n_epochs": 1395
+  },
+  {
+    "file": "eeg_record4_EEG1.csv",
+    "n_samples": 380344,
+    "n_epochs": 1485
+  },
+  {
+    "file": "eeg_record5_EEG1.csv",
+    "n_samples": 351204,
+    "n_epochs": 1371
+  },
+  {
+    "file": "eeg_record6_EEG1.csv",
+    "n_samples": 288752,
+    "n_epochs": 1127
+  },
+  {
+    "file": "eeg_record7_EEG1.csv",
+    "n_samples": 398816,
+    "n_epochs": 1557
+  },
+  {
+    "file": "eeg_record8_EEG1.csv",
+    "n_samples": 365888,
+    "n_epochs": 1429
+  },
+  {
+    "file": "eeg_record9_EEG1.csv",
+    "n_samples": 388788,
+    "n_epochs": 1518
+  }
+]

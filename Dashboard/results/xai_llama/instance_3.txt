@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+```
+{
+  "clinician": "The top contributing factors to this prediction of ADHD are the differences in spectral power at specific frequencies (4th and 5th order discrete cosine transform coefficients) detected in channel 0. Specifically, a decrease in power at these frequencies may be indicative of ADHD.",
+  "parent": [
+    "This test looked at special patterns in your child's brain waves to help understand their behavior",
+    "The results show that certain patterns in the brain are more common in children with ADHD than others",
+    "These patterns are related to how well the brain can focus and filter out distractions",
+    "More research is needed to confirm these findings, but this test could be an important tool for healthcare professionals"
+  ],
+  "disclaimer": "This explanation is based on a computer analysis of EEG data and should not be used as a substitute for a professional medical diagnosis. Only a qualified healthcare professional can determine whether someone has ADHD or any other condition."
+}
+```
