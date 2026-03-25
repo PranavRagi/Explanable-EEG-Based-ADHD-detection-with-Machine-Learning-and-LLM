@@ -1,6 +1,0 @@
-{
-  "sfreq": 128,
-  "epoch_length": 256,
-  "n_coef": 40,
-  "n_channels": 14
-}
