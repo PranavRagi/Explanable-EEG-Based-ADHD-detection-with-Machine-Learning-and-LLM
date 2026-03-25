@@ -1,0 +1,16 @@
+{
+  "index_in_test": 3,
+  "prediction": 0,
+  "confidence": 0.9176975864848241,
+  "top_features": [
+    {
+      "name": "ch0_dct_coef4",
+      "shap": 0.1584205500753083
+    },
+    {
+      "name": "ch0_dct_coef5",
+      "shap": -0.15842055007530825
+    }
+  ],
+  "bar_png": "results\\shap_test\\shap_bar_test_idx3.png"
+}
