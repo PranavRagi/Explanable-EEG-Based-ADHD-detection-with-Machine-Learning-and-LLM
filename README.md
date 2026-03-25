@@ -1,5 +1,5 @@
-🧠 Explainable EEG-Based ADHD Screening using Deep Learning and LLMs
-
+**Explainable EEG-Based ADHD Screening using Deep Learning and LLMs
+**
 📌 Overview
 
 This project presents an Explainable AI framework for ADHD screening using multi-channel EEG signals.
@@ -13,7 +13,7 @@ Unlike traditional black-box models, this approach emphasizes transparency and t
 
 - 🧪 EEG Signal Processing
   
-  - NeuroDCT-ICA based preprocessing
+  - NeuroDCT-ICA-based preprocessing
   - Artifact removal using ICA
   - Signal normalization
   - Epoch segmentation
@@ -27,10 +27,14 @@ Unlike traditional black-box models, this approach emphasizes transparency and t
   
   - Criss-Cross Optimization (CCO) for selecting discriminative features
 
-- 🤖 Deep Learning Models
-  
-  - 1D-CNN / EEGNet / Hybrid models for classification
+- 🤖 Machine Learning Models
 
+  - Logistic Regression (baseline model)
+  - Support Vector Machine (SVM)
+  - Random Forest (best performing model)
+  - XGBoost (optional)
+
+Random Forest achieved the highest performance and was selected for further explainability analysis.
 - 🔍 Explainable AI (XAI)
   
   - SHAP-based feature importance visualization
@@ -76,7 +80,7 @@ streamlit run app/app.py (It contains all steps for running the interface)
 
 📈 Results
 
-- Achieved robust classification using optimized EEG features
+- Achieved classification using optimized EEG features
 - Reduced noise using NeuroDCT-ICA preprocessing
 - Improved interpretability using SHAP + LLaMA
 - Real-time explainable predictions via dashboard
@@ -87,10 +91,10 @@ streamlit run app/app.py (It contains all steps for running the interface)
 
 The system provides:
 
-- 📊 Top contributing EEG features (SHAP)
-- 🧑‍⚕️ Clinician-level explanation
-- 👨‍👩‍👧 Parent-friendly explanation
-- ⚠️ Medical disclaimer
+-  Top contributing EEG features (SHAP)
+-  Clinician-level explanation
+-  Parent-friendly explanation
+-  Medical disclaimer
 
 ---
 
