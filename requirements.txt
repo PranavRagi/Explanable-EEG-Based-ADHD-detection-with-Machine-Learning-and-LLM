@@ -1,0 +1,15 @@
+Core Libraries: numpy, pandas, scipy
+
+Machine Learning scikit-learn, xgboost
+
+Signal Processing & EEG: MNE (Magnetoencephalography and Electroencephalography)
+
+Visualization: matplotlib, seaborn
+
+Explainable AI: shap
+
+Dashboard: streamlit
+
+LLM Integration (Ollama API) requests
+
+Utilities: joblib tqdm
