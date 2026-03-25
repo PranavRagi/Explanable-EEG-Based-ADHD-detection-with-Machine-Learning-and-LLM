@@ -1,4 +1,4 @@
-Explainable EEG-Based ADHD Screening using Deep Learning and LLMs
+Explainable EEG-Based ADHD Screening using Machine Learning and LLMs
 
 
 
